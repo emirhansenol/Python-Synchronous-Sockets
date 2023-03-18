@@ -1,5 +1,3 @@
-# PythonSocketProgrammingSample
-
-### Features
+# Python Sample Socket Programming
 
 The goal of this project is to explore Python's socket programming interface.
